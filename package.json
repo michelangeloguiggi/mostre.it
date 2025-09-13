@@ -1,0 +1,13 @@
+{
+  "name": "mostre.it",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dayjs": "^1.11.13",
+    "xml2js": "^0.6.2"
+  },
+  "scripts": {
+    "update": "node src/index.js"
+  }
+}
