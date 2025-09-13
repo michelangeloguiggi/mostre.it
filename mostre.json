@@ -1,0 +1,1400 @@
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
+[
+  {
+    "artisti": "Mario Rossi",
+    "titolo": "Colori del Novecento",
+    "date": { "dal": "2025-09-15", "al": "2025-12-31" },
+    "museo": "Museo d’Arte Moderna",
+    "luogo": { "regione": "Lombardia", "citta": "Milano", "indirizzo": "Via Manzoni, 1" },
+    "link": "https://esempio.com/mostra",
+    "img": "https://picsum.photos/seed/prova1/300/300",
+    "fonte": "Museo d’Arte Moderna",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "Federica Bianchi",
+    "titolo": "Rinascimento Privato",
+    "date": { "dal": "2025-10-01", "al": "2026-02-15" },
+    "museo": "Palazzo Storico",
+    "luogo": { "regione": "Piemonte", "citta": "Torino", "indirizzo": "Via Garibaldi, 12" },
+    "link": "https://esempio.com/mostra2",
+    "img": "https://picsum.photos/seed/prova2/300/300",
+    "fonte": "Palazzo Storico",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  },
+  {
+    "artisti": "AA.VV.",
+    "titolo": "Visioni Contemporanee",
+    "date": { "dal": "2025-09-01", "al": "2025-11-30" },
+    "museo": "Galleria Civica",
+    "luogo": { "regione": "Toscana", "citta": "Firenze", "indirizzo": "Via Roma, 22" },
+    "link": "https://esempio.com/mostra3",
+    "img": "https://picsum.photos/seed/prova3/300/300",
+    "fonte": "Galleria Civica",
+    "discoveredAt": "2025-09-13T00:00:00Z"
+  }
+]
