@@ -1,0 +1,28 @@
+name: Aggiorna mostre reali
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # ogni giorno a mezzanotte UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Install deps
+        run: npm install
+      - name: Genera mostre.json
+        run: npm run update
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add mostre.json
+          git commit -m "aggiornamento mostre.json" || echo "no changes"
+          git push
